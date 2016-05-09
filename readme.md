@@ -9,6 +9,7 @@ If you find bugs in the original functions, you should fix the bugs by using the
 Fork and clone this repository. Once you've got the code locally, install mocha and chai by using:
 
 ```
+$ npm install -g mocha # Only needed if you don't already have mocha installed globally
 $ npm install chai
 ```
 
