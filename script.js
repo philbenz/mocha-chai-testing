@@ -24,7 +24,7 @@ module.exports = {
     return "not an array";
   },
 
-  // Should return undefined and modify the input arr to be in reveresed order
+  // Should return undefined and modify the input arr to be in reversed order
   reverseInPlace: function (arr) {
       var mid = arr.length/2;
       for (var i=0; i<mid; i++){
